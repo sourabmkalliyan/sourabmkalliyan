@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/smkalliyan" target="blank"><img src="https://img.shields.io/twitter/follow/smkalliyan?logo=twitter&style=for-the-badge" alt="smkalliyan" /></a> </p>
 
-- 🔭 I’m currently working on **Bus Tracking System**
+- 🔭 I’m currently working on a **Password Strength Checker**
 
 - 🌱 I’m currently learning **Python and frameworks**
 
